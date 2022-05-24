@@ -3,11 +3,11 @@ resnet 18 is used as teacher model
 
 resnet 8 and resnet20 are used as student models
 
-resnet18--11 Million parameters
+resnet18--Trainable params: 11,173,962
 
-resnet20--0.27 Million parameters
+resnet20--Trainable params: 283,754
 
-resnet8--around 90000 parameters
+resnet08--Trainable params: 89,322
 
 |                        | **Paper** | **Implementation** |
 |------------------------|-----------|--------------------|
