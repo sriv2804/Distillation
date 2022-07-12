@@ -1,4 +1,5 @@
 # Distillation
+#Response Based Knowledge Distillation
 resnet 18 is used as teacher model
 
 resnet 8 and resnet20 are used as student models
